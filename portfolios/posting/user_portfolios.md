@@ -21,8 +21,8 @@ GET
 ## RESPONSE
 
 * totalNum: 포트폴리오 게시글 총 개수 \(number\)
-* portfolioList: 포트폴리오 게시글 리스트 \(project 배열\)
-  * project
+* portfolioList: 포트폴리오 게시글 리스트 \(portfolio 배열\)
+  * portfolio
     * id: 게시물 고유 id \(number\)
     * title: 게시물 제목 \(string\)
     * content: 게시물 내용 \(string\)
