@@ -31,7 +31,6 @@ GET
 * interests: 사용자 관심분야 \(string\)
 * isBirthPublic: 생년월일 공개 여부 \(boolean\)
 * isUniversityPublic: 대학 공개 여부 \(boolean\)
-* isMajorPublic: 전공 공개 여부 \(boolean\)
 * isRegionPublic: 활동 지역 공개 여부 \(boolean\)
 * isInterestsPublic: 관심 분야 공개 여부 \(boolean\)
 
@@ -50,7 +49,6 @@ GET
     "interests": null,
     "isBirthPublic": null,
     "isUniversityPublic": true,
-    "isMajorPublic": null,
     "isRegionPublic": false,
     "isInterestsPublic": null
 }

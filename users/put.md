@@ -32,11 +32,10 @@ PUT
 * interests: 사용자 관심분야 \(string\)
 * isBirthPublic: 생년월일 공개 여부 \(boolean\)
 * isUniversityPublic: 대학 공개 여부 \(boolean\)
-* isMajorPublic: 전공 공개 여부 \(boolean\)
 * isRegionPublic: 활동 지역 공개 여부 \(boolean\)
 * isInterestsPublic: 관심 분야 공개 여부 \(boolean\)
 
-사용자가 정보를 입력한 적이 없으면 null이 기본값입다.
+사용자가 정보를 입력한 적이 없으면 null이 기본값입니다.
 
 ### REQUEST BODY EXAMPLE
 
@@ -53,7 +52,6 @@ PUT
     "interests": null,
     "isBirthPublic": null,
     "isUniversityPublic": true,
-    "isMajorPublic": null,
     "isRegionPublic": false,
     "isInterestsPublic": null
 }
